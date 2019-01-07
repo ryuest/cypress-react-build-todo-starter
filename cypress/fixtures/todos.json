@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "name": "Buy Milk",
+        "isComplete": false
+    },
+    {
+        "id": 2,
+        "name": "Buy French",
+        "isComplete": false
+    },
+    {
+        "id": 3,
+        "name": "Buy Eggs",
+        "isComplete": true
+    },
+    {
+        "id": 4,
+        "name": "Buy Bread",
+        "isComplete": false
+    }
+]
